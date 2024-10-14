@@ -7,6 +7,8 @@ namespace TestProject
 {
     public class HelloWorld
     {
-        
+       public void getimpact(){
+        Console.WriteLine("Hello main");
+       }
     }
 }
